@@ -30,8 +30,8 @@ To analyze layoffs data and identify trends, key contributors, and patterns acro
 
 ## Visualizations  
 
-(Upload and add your chart images here)
-
+![Monthly Trend](monthly_trend.png)
+![Top Companies](top_5_companies.png)
 ---
 
 ## Conclusion  
